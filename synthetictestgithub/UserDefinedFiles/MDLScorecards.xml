@@ -32,5 +32,6 @@
     <Import File="Scorecard\TestScorecardLayout-20261116033007.UserBased.xml" />
     <Import File="Scorecard\CstUserPullRequestMarker.UserBased.xml" />
     <Import File="Scorecard\TestScorecardLayout-20261118104754.UserBased.xml" />
+    <Import File="Scorecard\CstGitHubMarker.UserBased.xml" />
   </Imports>
 </Mdl>
