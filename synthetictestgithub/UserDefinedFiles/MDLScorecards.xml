@@ -47,5 +47,6 @@
     <Import File="Scorecard\TestScorecardLayout-20261125031512.UserBased.xml" />
     <Import File="Scorecard\TestScorecardLayout-20261125033413.UserBased.xml" />
     <Import File="Scorecard\TestScorecardLayout-20261125043205.UserBased.xml" />
+    <Import File="Scorecard\TestScorecardLayout-20261125050222.UserBased.xml" />
   </Imports>
 </Mdl>
