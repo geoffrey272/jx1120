@@ -50,5 +50,6 @@
     <Import File="Scorecard\TestScorecardLayout-20261125055932.UserBased.xml" />
     <Import File="Scorecard\TestScorecardLayout-20261125064452.UserBased.xml" />
     <Import File="Scorecard\TestScorecardLayout-20261126062146.UserBased.xml" />
+    <Import File="Scorecard\CstClosedPullRequest-20261126063056.UserBased.xml" />
   </Imports>
 </Mdl>
